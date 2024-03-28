@@ -29,6 +29,7 @@ This project demonstrates the deployment of a Netflix clone application using Je
   - Create CI/CD pipeline for automated deployment
  
 <img src="Jenkins.png" width=850 height=500>
+<img src="Docker.png" width=850 height=500>
 
 - **Phase 4: Monitoring**
   - Install Prometheus and Grafana for monitoring
