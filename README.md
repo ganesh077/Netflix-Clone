@@ -32,6 +32,3 @@ This project demonstrates the deployment of a Netflix clone application using Je
   - Monitor Kubernetes with Prometheus
   - Install Node Exporter using Helm
   - Add a job to scrape metrics in Prometheus configuration
-
-- **Phase 7: Cleanup**
-  - Terminate AWS EC2 instances that are no longer needed
