@@ -2,6 +2,7 @@
 
 This project demonstrates the deployment of a Netflix clone application using Jenkins on AWS EC2, incorporating DevSecOps practices.
 
+<img src="flow.png" width=850 height=500>
 <img src="Screens1.png" width=850 height=500>
 <img src="Screens2.png" width=850 height=500>
 
