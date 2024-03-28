@@ -14,7 +14,7 @@ This project demonstrates the deployment of a Netflix clone application using Je
   - Install Docker and run the app using a container
   - Obtain TMDB API key for accessing movie data
  
-<img src="aws.png" width=850 height=500>
+<img src="aws.png" width=850 height=350>
 
 - **Phase 2: Security**
   - Install SonarQube and Trivy for vulnerability scanning
